@@ -20,4 +20,7 @@ public class classA {
 	public void setA2(float a2) {
 		A2 = a2;
 	}
+		public float soma(int, float){
+		return this.A1+this.A2;
+	}
 }
